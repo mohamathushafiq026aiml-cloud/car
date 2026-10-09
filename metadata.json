@@ -1,0 +1,6 @@
+{
+  "name": "ITZFIZZ - Scroll-Driven Automotive Experience",
+  "description": "High-performance scroll-driven hero animation featuring letter-staggered reveals, lerp-interpolated vehicular motion, and interactive telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
